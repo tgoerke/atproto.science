@@ -1,6 +1,6 @@
 # ATProto Science 🌸
 
-Welcome to the Flowershow Template! This is a ready-to-use template for creating beautiful websites from your markdown content, particularly optimized for Obsidian vaults.
+ATProto Science is about using ATProto for science applications, such as publishing, curation, data sharing or social discourse around research.
 
 ## What is this template?
 
