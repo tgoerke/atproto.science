@@ -2,7 +2,7 @@
 
 ATProto Science is about using ATProto for science applications, such as publishing, curation, data sharing or social discourse around research.
 
-## What is this template?
+## Intro?
 
 This template serves as a foundation for:
 - Publishing your Obsidian vault as a website
